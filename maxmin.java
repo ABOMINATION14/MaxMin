@@ -3,7 +3,7 @@ public class maxmin {
         int max = a;
         if (b > max) max = b;
         if (c > max) max = c;
-        return max;Initialize git
+        return max;
     }
     public static int findMin(int a, int b, int c) {
         int min = a;
