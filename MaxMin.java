@@ -1,4 +1,4 @@
-public class MaxMin {
+public class maxmin {
     public static int findMax(int a, int b, int c) {
         int max = a;
         if (b > max) max = b;
